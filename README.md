@@ -31,3 +31,7 @@ Here is a sample of a portion what the toString() method should produce.
 
 GOOG Alphabet 9/25/20 $1444.95 1323000
 MSFT Microsoft 9/25/20 $207.82 29437310 SBUX Starbucks 9/25/20 $84.3 5981463 TSLA Tesla 9/25/20 $407.34 67208460
+
+
+https://github.com/DengYaosheng/Stock-Information-Processing/assets/41530023/02942346-4c94-48c7-bf49-d882d6d2ce5b
+
