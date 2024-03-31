@@ -38,8 +38,6 @@ https://github.com/DengYaosheng/Stock-Information-Processing/assets/41530023/7b5
 
 
 
-https://github.com/DengYaosheng/Stock-Information-Processing/assets/41530023/6ea4789e-56a4-4f6f-b46f-20fc2753c7e7
-
 
 
 
