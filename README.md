@@ -33,5 +33,13 @@ GOOG Alphabet 9/25/20 $1444.95 1323000
 MSFT Microsoft 9/25/20 $207.82 29437310 SBUX Starbucks 9/25/20 $84.3 5981463 TSLA Tesla 9/25/20 $407.34 67208460
 
 
-https://github.com/DengYaosheng/Stock-Information-Processing/assets/41530023/02942346-4c94-48c7-bf49-d882d6d2ce5b
+
+https://github.com/DengYaosheng/Stock-Information-Processing/assets/41530023/7b52e51c-dd34-40fe-a0bb-d6d07d7f336d
+
+
+
+https://github.com/DengYaosheng/Stock-Information-Processing/assets/41530023/6ea4789e-56a4-4f6f-b46f-20fc2753c7e7
+
+
+
 
